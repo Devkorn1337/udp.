@@ -4,11 +4,11 @@ import random
 import socket
 import threading
 
-print("                                 ██████████████████████████████████████████████████████████████")
-print("                                 ██╔═══╝██╔════╝██╔═══╝██╔════╝██╔═══╝██╔════╝██╔═══╝██╔════╝██")
-print("                                 ██ ▂ ▂ ▂ ▂ ▂ ▃ ▄ ▅ ▆ ▇ ██ ◥ราชามอด◤██ ▇ ▆ ▅ ▄ ▃ ▂ ▂ ▂ ▂ ▂ ██")
-print("                                 ██╔═══╝██╔════╝██╔═══╝██╔════╝██╔═══╝██╔════╝██╔═══╝██╔════╝██")
-print("                                 ██████████████████████████████████████████████████████████████")
+print("                                 Email : jjgodhack@gmail.com")
+print("                                 Facebook : KoRn natthakorn")
+print("                                 Line : Korn Zzzzzz...")
+print("                                 Discord : x2swift")
+print("                                 Github : Devkorn1337")
 
 
 ip = str(input("  IP:"))
